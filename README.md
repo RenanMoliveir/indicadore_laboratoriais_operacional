@@ -193,9 +193,6 @@ Biomédico e Pós-graduando em Data Science
 
 https://github.com/RenanMoliveir
 
-### LinkedIn
-
-(Adicionar link)
 
 ---
 
