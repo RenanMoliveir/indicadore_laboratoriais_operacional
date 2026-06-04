@@ -19,7 +19,7 @@ Construir uma solução de Business Intelligence capaz de monitorar a operação
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Data Processing
 
@@ -38,7 +38,7 @@ Construir uma solução de Business Intelligence capaz de monitorar a operação
 
 ---
 
-## 📊 Indicadores Desenvolvidos
+## Indicadores Desenvolvidos
 
 ### Dashboard Executivo
 
@@ -120,7 +120,7 @@ AVERAGEX(
 
 ---
 
-## 🎯 Principais Aprendizados
+## Principais Aprendizados
 
 Durante o desenvolvimento foram aplicados conceitos de:
 
@@ -136,11 +136,11 @@ Durante o desenvolvimento foram aplicados conceitos de:
 
 ---
 
-## 🌐 Dashboard Online
+## Dashboard Online
 
 Acesse a versão publicada do projeto:
 
-👉 https://app.powerbi.com/reportEmbed?reportId=387555ce-66a1-46d2-a5c7-5acdaf144ffc&autoAuth=true&ctid=b142a9f4-1ae0-4309-913b-cc6fe2468213&actionBarEnabled=true
+https://app.powerbi.com/reportEmbed?reportId=387555ce-66a1-46d2-a5c7-5acdaf144ffc&autoAuth=true&ctid=b142a9f4-1ae0-4309-913b-cc6fe2468213&actionBarEnabled=true
 
 ---
 
@@ -162,7 +162,7 @@ Acesse a versão publicada do projeto:
 
 ---
 
-## 🚀 Próximos Passos
+## Próximos Passos
 
 - Implementação de métricas de On Time
 - Comparativo entre categorias
@@ -173,7 +173,7 @@ Acesse a versão publicada do projeto:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 ### Isac Renan Oliveira
 
@@ -196,4 +196,4 @@ https://github.com/RenanMoliveir
 
 ---
 
-⭐ Projeto desenvolvido para estudo e aperfeiçoamento em análise de dados aplicada ao ambiente laboratorial.
+Projeto desenvolvido para estudo e aperfeiçoamento em análise de dados aplicada ao ambiente laboratorial.
