@@ -144,7 +144,7 @@ https://app.powerbi.com/reportEmbed?reportId=387555ce-66a1-46d2-a5c7-5acdaf144ff
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ### Dashboard Geral
 
