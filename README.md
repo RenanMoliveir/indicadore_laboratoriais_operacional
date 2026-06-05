@@ -37,12 +37,19 @@ Construir uma solução de Business Intelligence capaz de monitorar a operação
 
 ## Links do Projeto
 
-### Dashboard Publicado
+## Dashboard Interativo
 
-🔗 **Power BI**
+O dashboard foi publicado no Power BI Service e pode ser acessado através do link abaixo:
 
-https://app.powerbi.com/reportEmbed?reportId=387555ce-66a1-46d2-a5c7-5acdaf144ffc&autoAuth=true&ctid=b142a9f4-1ae0-4309-913b-cc6fe2468213&actionBarEnabled=true
+### Acessar Dashboard
 
+[Visualizar Dashboard LabInsight no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjZhNjZkM2MtYWQ1NC00ZGMxLTljYzUtOWY5M2YyMzU5YWFjIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+### Preview
+
+<img width="1200" height="768" alt="Dashboard Geral" src="https://github.com/user-attachments/assets/da704e70-1397-4dff-a110-fe0032f82f91" />
+
+---
 ### GitHub
 
 https://github.com/RenanMoliveir
