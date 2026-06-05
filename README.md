@@ -1,4 +1,4 @@
-# LabInsight
+# LabInsight 
 
 Sistema de Business Intelligence para monitoramento operacional laboratorial desenvolvido com Python, Pandas, Power BI e DAX.
 
