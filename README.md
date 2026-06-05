@@ -1,4 +1,10 @@
-# LabInsight 
+# LabInsight
+
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi)
+![Python](https://img.shields.io/badge/Python-ETL-3776AB?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-150458?logo=pandas)
+![DAX](https://img.shields.io/badge/DAX-Analytics-F2C811)
+![Healthcare](https://img.shields.io/badge/Healthcare-Analytics-009688)
 
 Sistema de Business Intelligence para monitoramento operacional laboratorial desenvolvido com Python, Pandas, Power BI e DAX.
 
@@ -29,11 +35,21 @@ Construir uma solução de Business Intelligence capaz de monitorar a operação
 
 ---
 
-## Dashboard Interativo
+## Links do Projeto
 
-Acesse a versão publicada do projeto:
+### Dashboard Publicado
+
+🔗 **Power BI**
 
 https://app.powerbi.com/reportEmbed?reportId=387555ce-66a1-46d2-a5c7-5acdaf144ffc&autoAuth=true&ctid=b142a9f4-1ae0-4309-913b-cc6fe2468213&actionBarEnabled=true
+
+### GitHub
+
+https://github.com/RenanMoliveir
+
+### LinkedIn
+
+https://www.linkedin.com/in/isacrenan/
 
 ---
 
@@ -95,6 +111,37 @@ Os dados foram estruturados para reproduzir cenários operacionais encontrados e
 
 ---
 
+## Modelagem de Dados
+
+A modelagem foi estruturada utilizando esquema estrela (Star Schema), permitindo análises performáticas e flexíveis no Power BI.
+
+![Modelo Estrela](https://github.com/user-attachments/assets/d9d99065-a545-4cb5-8fc3-026df6ce26f8)
+
+### Tabela Fato
+
+**fato_exames**
+
+Contém informações operacionais dos exames:
+
+* Pedido
+* Exame
+* Origem
+* Área
+* Categoria
+* Horário
+* TAT
+* Meta SLA
+
+### Tabelas Dimensão
+
+* dim_calendario
+* dim_exame
+* dim_origem
+* dim_area
+* dim_paciente
+
+---
+
 ## Indicadores de Negócio
 
 ### Dashboard Executivo
@@ -128,42 +175,15 @@ Os dados foram estruturados para reproduzir cenários operacionais encontrados e
 
 ### Dashboard Geral
 
-<img width="1200" height="768" alt="image" src="https://github.com/user-attachments/assets/da704e70-1397-4dff-a110-fe0032f82f91" />
+<img width="1200" height="768" alt="Dashboard Geral" src="https://github.com/user-attachments/assets/da704e70-1397-4dff-a110-fe0032f82f91" />
 
 ### Detalhamento Operacional
 
-<img width="1200" height="768" alt="image" src="https://github.com/user-attachments/assets/fc70776b-8d4c-4408-b1ec-baf4ec64af7e" />
+<img width="1200" height="768" alt="Detalhamento Operacional" src="https://github.com/user-attachments/assets/fc70776b-8d4c-4408-b1ec-baf4ec64af7e" />
 
 ### Operação Horária
 
-<img width="1200" height="768" alt="image" src="https://github.com/user-attachments/assets/8c10a12a-45c2-47eb-81b7-8049a572efeb" />
-
----
-
-## Modelagem de Dados
-
-### Tabela Fato
-
-**fato_exames**
-
-Contém informações operacionais dos exames:
-
-* Pedido
-* Exame
-* Origem
-* Área
-* Categoria
-* Horário
-* TAT
-* Meta SLA
-
-### Tabelas Dimensão
-
-* dim_calendario
-* dim_exame
-* dim_origem
-* dim_area
-* dim_paciente
+<img width="1200" height="768" alt="Operação Horária" src="https://github.com/user-attachments/assets/8c10a12a-45c2-47eb-81b7-8049a572efeb" />
 
 ---
 
@@ -207,6 +227,20 @@ Esses indicadores permitem direcionar ações de monitoramento contínuo da qual
 
 ---
 
+## Competências Demonstradas
+
+* ETL e preparação de dados com Python
+* Limpeza e transformação de dados
+* Modelagem dimensional (Star Schema)
+* Desenvolvimento de métricas e indicadores em DAX
+* Construção de dashboards executivos
+* Storytelling com dados
+* Business Intelligence aplicado à saúde
+* Monitoramento de SLA e TAT
+* Análise operacional laboratorial
+
+---
+
 ## Principais Aprendizados
 
 Durante o desenvolvimento foram aplicados conceitos de:
@@ -241,14 +275,29 @@ Próximas evoluções planejadas:
 
 ### Isac Renan Oliveira
 
-Analista de Dados com experiência em operações laboratoriais e projetos de Business Intelligence voltados para saúde.
+Profissional da área da saúde especializado em Análise de Dados e Business Intelligence, com experiência em operações laboratoriais e desenvolvimento de soluções analíticas utilizando SQL, Python e Power BI.
 
-Especializado em SQL, Python, Power BI e análise de indicadores operacionais.
+Atualmente atua na construção de projetos voltados para Healthcare Analytics, aplicando técnicas de ETL, modelagem dimensional, visualização de dados e monitoramento de indicadores operacionais para apoiar a tomada de decisão baseada em dados.
+
+### Tecnologias
+
+* SQL
+* Python
+* Pandas
+* Power BI
+* DAX
+* Machine Learning
+* Modelagem Dimensional
+* Business Intelligence
 
 ### GitHub
 
 https://github.com/RenanMoliveir
 
+### LinkedIn
+
+https://www.linkedin.com/in/isacrenan/
+
 ---
 
-Projeto de Business Intelligence desenvolvido para simular o monitoramento operacional de laboratórios clínicos, aplicando conceitos de ETL, modelagem dimensional, análise de desempenho e visualização de dados.
+Projeto de Business Intelligence desenvolvido para simular o monitoramento operacional de laboratórios clínicos, aplicando conceitos de ETL, modelagem dimensional, análise de desempenho operacional e visualização de dados para suporte à tomada de decisão.
